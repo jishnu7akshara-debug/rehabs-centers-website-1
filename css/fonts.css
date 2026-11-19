@@ -1,0 +1,15 @@
+/* Self-hosted variable fonts (latin subset) so the site never depends on an external font server */
+@font-face {
+  font-family: "Familjen Grotesk";
+  font-style: normal;
+  font-weight: 400 700;
+  font-display: swap;
+  src: url("../assets/fonts/familjen-grotesk.woff2") format("woff2");
+}
+@font-face {
+  font-family: "Figtree";
+  font-style: normal;
+  font-weight: 300 900;
+  font-display: swap;
+  src: url("../assets/fonts/figtree.woff2") format("woff2");
+}
